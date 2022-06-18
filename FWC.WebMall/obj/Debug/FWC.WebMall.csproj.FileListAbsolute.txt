@@ -1,0 +1,16 @@
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.exe.config
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.exe
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.pdb
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\EntityFramework.dll
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.Data.dll
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.Data.pdb
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\FWC.WebMall.Data.dll.config
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\EntityFramework.xml
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.csproj.AssemblyReference.cache
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.csproj.CoreCompileInputs.cache
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.csproj.CopyComplete
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.exe
+C:\Users\Ayesha\source\repos\FWC.WebMall\FWC.WebMall\obj\Debug\FWC.WebMall.pdb
